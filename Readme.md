@@ -275,5 +275,5 @@ JWT token for authentication is stored in the local storage of the browser and a
 
 ### link
 
-- [jeetpatel031006-oss](expense-tracker-6q2ax5l1h-pateldaksh2206-2764s-projects.vercel.app)
+- [expense-tracker-6q2ax5l1h-pateldaksh2206-2764s-projects.vercel.app](expense-tracker-6q2ax5l1h-pateldaksh2206-2764s-projects.vercel.app)
 
